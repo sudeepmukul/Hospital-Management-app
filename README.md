@@ -1,2 +1,3 @@
 # Hospital Management app
-idk bruh
+We can add Patients , Make Appointments , view Appointments for a specific day etc
+
